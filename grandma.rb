@@ -3,7 +3,8 @@ def speak_to_grandma(phrase) {
     puts "HUH?! SPEAK UP, SONNY!"
   else 
     puts "I LOVE YOU TOO PUMPKIN!"
-}# Write a speak_to_grandma method
+}
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
