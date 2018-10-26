@@ -1,5 +1,8 @@
 speak_to_grandma(phrase) {
-  if phrase == phrase.
+  if phrase == phrase.downcase
+    puts "HUH?! SPEAK UP, SONNY!"
+  else 
+    "I LOVE YOU TOO PUMPKIN!"
 }# Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
